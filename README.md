@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently a Data Science in training.
+- 👨🏿‍🔧 I build projects using Python, SQL, PyCharm, Juypter
+- ⚡ I enjoy reading, Football, spending time with my young family.
+  
 <!--
 **ceebeeaka89/ceebeeaka89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
