@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a Data Science in training.
-- 👨🏿‍🔧 I build projects using Python, SQL, PyCharm, Juypter
+- 👨🏿‍🔧 I build projects using Python, SQL & ML.
 - ⚡ I enjoy reading, Football, spending time with my young family.
   
 <!--
