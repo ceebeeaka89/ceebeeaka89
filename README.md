@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a Data Science in training.
 - 👨🏿‍🔧 I build projects using Python, SQL & ML.
-- ⚡ My three Fs: Football, Financial Markets and Family.
+
   
 <!--
 **ceebeeaka89/ceebeeaka89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
