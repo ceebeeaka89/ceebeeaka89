@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a Data Science in training.
+
 - 👨🏿‍🔧 I build projects using Python, SQL & ML.
 
   
